@@ -6,7 +6,7 @@
     "margin": 2
   },
   "block_quote": {
-    "color": "#B4A05A",
+    "color": "#A69966",
     "italic": true,
     "indent": 2
   },
@@ -17,7 +17,7 @@
   },
   "heading": {
     "block_suffix": "\n",
-    "color": "#927CA0",
+    "color": "#A39DAC",
     "bold": true
   },
   "h1": {
@@ -43,11 +43,11 @@
     "crossed_out": true
   },
   "emph": {
-    "color": "#B4A05A",
+    "color": "#A69966",
     "italic": true
   },
   "strong": {
-    "color": "#d4b573",
+    "color": "#C6B67E",
     "bold": true
   },
   "hr": {
@@ -59,35 +59,35 @@
   },
   "enumeration": {
     "block_prefix": ". ",
-    "color": "#916f54"
+    "color": "#7F9476"
   },
   "task": {
     "ticked": "[✓] ",
     "unticked": "[ ] "
   },
   "link": {
-    "color": "#a37856",
+    "color": "#9AAB90",
     "underline": true
   },
   "link_text": {
-    "color": "#9D868C"
+    "color": "#876f7f"
   },
   "image": {
-    "color": "#a37856",
+    "color": "#9AAB90",
     "underline": true
   },
   "image_text": {
-    "color": "#9D868C",
+    "color": "#876f7f",
     "format": "Image: {{.text}} →"
   },
   "code": {
-    "color": "#809a73",
-    "background_color": "#1D2320",
+    "color": "#9C9F7F",
+    "background_color": "#1C211E",
     "prefix": " ",
     "suffix": " "
   },
   "code_block": {
-    "color": "#8C918C",
+    "color": "#8A928B",
     "margin": 2,
     "chroma": {
       "text": {
@@ -95,92 +95,92 @@
       },
       "error": {
         "color": "#c3cdc0",
-        "background_color": "#935155"
+        "background_color": "#9A6B6B"
       },
       "comment": {
-        "color": "#616560"
+        "color": "#6F7B6F"
       },
       "comment_preproc": {
-        "color": "#9D868C"
+        "color": "#876f7f"
       },
       "keyword": {
-        "color": "#baa5ab"
+        "color": "#947e8d"
       },
       "keyword_reserved": {
-        "color": "#baa5ab"
+        "color": "#947e8d"
       },
       "keyword_namespace": {
-        "color": "#9D868C"
+        "color": "#876f7f"
       },
       "keyword_type": {
-        "color": "#75617D"
+        "color": "#8A8493"
       },
       "operator": {
-        "color": "#935155"
+        "color": "#9A6B6B"
       },
       "punctuation": {
-        "color": "#B4A05A"
+        "color": "#A69966"
       },
       "name": {
         "color": "#c3cdc0"
       },
       "name_builtin": {
-        "color": "#916f54"
+        "color": "#7F9476"
       },
       "name_tag": {
-        "color": "#9D868C"
+        "color": "#876f7f"
       },
       "name_attribute": {
-        "color": "#67825B"
+        "color": "#959C70"
       },
       "name_class": {
-        "color": "#927CA0",
+        "color": "#A39DAC",
         "underline": true,
         "bold": true
       },
       "name_constant": {
-        "color": "#B4A05A"
+        "color": "#A69966"
       },
       "name_decorator": {
-        "color": "#916f54"
+        "color": "#7F9476"
       },
       "name_exception": {
-        "color": "#935155"
+        "color": "#9A6B6B"
       },
       "name_function": {
-        "color": "#67825B"
+        "color": "#959C70"
       },
       "name_other": {},
       "literal": {},
       "literal_number": {
-        "color": "#916f54"
+        "color": "#7F9476"
       },
       "literal_date": {},
       "literal_string": {
-        "color": "#67825B"
+        "color": "#959C70"
       },
       "literal_string_escape": {
-        "color": "#a37856"
+        "color": "#9AAB90"
       },
       "generic_deleted": {
-        "color": "#935155"
+        "color": "#9A6B6B"
       },
       "generic_emph": {
-        "color": "#B4A05A",
+        "color": "#A69966",
         "italic": true
       },
       "generic_inserted": {
-        "color": "#67825B"
+        "color": "#959C70"
       },
       "generic_strong": {
-        "color": "#d4b573",
+        "color": "#C6B67E",
         "bold": true
       },
       "generic_subheading": {
-        "color": "#75617D"
+        "color": "#8A8493"
       },
       "background": {
-        "background_color": "#1D2320"
+        "background_color": "#1C211E"
       }
     }
   },
